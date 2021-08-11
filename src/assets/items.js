@@ -18,7 +18,7 @@ const items = [{
 },
 {
     "title": "Instagram",
-    "subtitle": "@virtuonic100 | Hub of my awesome 😎pics",
+    "subtitle": "@_mr_c.h.a.k.r.a.d.h.a.r_ | Hub of my awesome 😎pics",
     "image": instagram,
     "link": "https://instagram.com/_mr_c.h.a.k.r.a.d.h.a.r_"
 },
