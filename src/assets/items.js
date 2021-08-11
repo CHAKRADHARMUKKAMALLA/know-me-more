@@ -26,7 +26,7 @@ const items = [{
     "title": "YouTube",
     "subtitle": "@learn with mr.hacker | one of admin to the channel.",
     "image": youtube,
-    "link": "https://www.youtube.com/channel/UCOUa9hvd4sJWQWQRIQctbSg"
+    "link": "https://www.youtube.com/channel/UCtWkUCSlc9x3fx_IllVu2dQ"
 },
 {
     "title": "Telegram",
