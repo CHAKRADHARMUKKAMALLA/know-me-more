@@ -3,6 +3,7 @@ import instagram from '../assets/instagram.png'
 import youtube from '../assets/images (3).jpeg'
 import github from '../assets/github.png'
 import telegram from '../assets/IMG_20201124_104554.png'
+import twitter from '../assets/twitter.png'
 
 const items = [{
     "title": "Website",
@@ -33,6 +34,12 @@ const items = [{
     "subtitle": "@chakradharreddymukkamalla | Chat with me instantly, Don't hesitate! ",
     "image": telegram,
     "link": "https://telegram.me/chakradharreddymukkamalla"
+}
+{
+    "title": "twitter",
+    "subtitle": "@cdrchakri | connect my thougths on twitter ",
+    "image": twitter,
+    "link": "https://twitter.com/cdrchakri"
 }]
 
 export default items
