@@ -34,7 +34,7 @@ const items = [{
     "subtitle": "@chakradharreddymukkamalla | Chat with me instantly, Don't hesitate! ",
     "image": telegram,
     "link": "https://telegram.me/chakradharreddymukkamalla"
-}
+},
 {
     "title": "twitter",
     "subtitle": "@cdrchakri | connect my thougths on twitter ",
