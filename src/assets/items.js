@@ -13,7 +13,7 @@ const items = [{
 },
 {
     "title": "GitHub",
-    "subtitle": "@devgossips | 🏠 of my open-source projects",
+    "subtitle": "@chakradhar mukkamalla | 🏠 of my open-source projects",
     "image": github,
     "link": "https://github.com/CHAKRADHARMUKKAMALLA"
 },
