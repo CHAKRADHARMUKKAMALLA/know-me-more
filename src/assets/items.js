@@ -24,6 +24,12 @@ const items = [{
     "link": "https://instagram.com/_mr_c.h.a.k.r.a.d.h.a.r_"
 },
 {
+    "title": "Instagram",
+    "subtitle": "@m.chakradhar_reddy| ☠️ An cybernaut☠️ ",
+    "image": instagram,
+    "link": "https://www.instagram.com/m.chakradhar_reddy/"
+},
+{
     "title": "YouTube",
     "subtitle": "@learn with mr.hacker | one of admin to the channel.",
     "image": youtube,
