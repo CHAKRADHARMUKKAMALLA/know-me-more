@@ -8,6 +8,7 @@ function Header() {
     return (
         <div className = "Header container">
             <div className = "ten columns">
+                 <font size = "7">
                chakradhar reddy mukkamalla
            
             </div>
