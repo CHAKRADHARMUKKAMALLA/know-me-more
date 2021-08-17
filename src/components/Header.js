@@ -9,7 +9,7 @@ function Header() {
         <div className = "Header container">
             <div className = "ten columns">
                  <font size = "7">
-               chakradhar reddy mukkamalla
+                Mukkamalla chakradhar reddy
             </font>
            
             </div>
