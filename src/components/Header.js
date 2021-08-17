@@ -10,6 +10,7 @@ function Header() {
             <div className = "ten columns">
                  <font size = "7">
                chakradhar reddy mukkamalla
+            </font>
            
             </div>
            
