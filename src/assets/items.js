@@ -4,7 +4,7 @@ import youtube from '../assets/images (3).jpeg'
 import github from '../assets/github.png'
 import telegram from '../assets/IMG_20201124_104554.png'
 import twitter from '../assets/twitter.png'
-
+import snapchat from '../assets/images.png'
 const items = [{
     "title": "Website",
     "subtitle": "Look at my work!",
@@ -46,6 +46,12 @@ const items = [{
     "subtitle": "@cdrchakri | connect my thougths on twitter ",
     "image": twitter,
     "link": "https://twitter.com/cdrchakri"
-}]
+},
+{
+    "title": "SnapChat",
+    "subtitle": "@update soon | 🏠 of my daily activities ",
+    "image": snapchat,
+    "link": "https://git}
+]
 
 export default items 
