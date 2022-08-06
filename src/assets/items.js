@@ -51,7 +51,7 @@ const items = [{
     "title": "SnapChat",
     "subtitle": "@update soon | 🏠 of my daily activities ",
     "image": snapchat,
-    "link": "https://git
+    "link": "https://git.com"
 },
 ]
 
