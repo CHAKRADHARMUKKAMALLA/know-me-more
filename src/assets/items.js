@@ -49,9 +49,9 @@ const items = [{
 },
 {
     "title": "SnapChat",
-    "subtitle": "@update soon | 🏠 of my daily activities ",
+    "subtitle": "@mchakri_2004| let's have streak on my daily activities ",
     "image": snapchat,
-    "link": "https://git.com"
+    "link": "https://www.snapchat.com/add/mchakri_2004?share_id=PKGYMnoyRDg&locale=en-US"
 },
 ]
 
