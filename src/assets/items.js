@@ -3,7 +3,7 @@ import instagram from '../assets/instagram.png'
 import youtube from '../assets/images (3).jpeg'
 import github from '../assets/github.png'
 import telegram from '../assets/IMG_20201124_104554.png'
-import twitter from '../assets/twitter.png'
+import twitter from '../assets/WhatsApp Image 2022-11-15 at 12.50.58 PM.jpeg'
 import snapchat from '../assets/WhatsApp Image 2022-11-15 at 12.49.41 PM.jpeg'
 const items = [{
     "title": "Website",
