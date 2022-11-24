@@ -9,7 +9,7 @@ const items = [{
     "title": "Website",
     "subtitle": "Look at my work!",
     "image": website,
-    "link": "https://cdrmukkamalla2.vercel.app/"
+    "link": "https://cdrmukkamalla1.vercel.app/"
 },
 {
     "title": "GitHub",
